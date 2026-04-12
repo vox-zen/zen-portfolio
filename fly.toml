@@ -1,10 +1,5 @@
-# fly.toml app configuration file generated for zen-portfolio on 2026-04-12T05:49:37Z
-#
-# See https://fly.io/docs/reference/configuration/ for information about how to use this file.
-#
-
 app = 'zen-portfolio'
-primary_region = 'iad'
+primary_region = 'sin'
 
 [build]
 
