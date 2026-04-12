@@ -30,55 +30,55 @@
       }
     ]
   },
-  "resume": {
-    "skillmessage": "My Technical Arsenal",
-    "skills": [
-      {
-        "name": "CustomScript",
-        "icon": "/icons/code.svg"
-      },
-      {
-        "name": "SIP",
-        "icon": "/icons/network.svg"
-      },
-      {
-        "name": "Next.js",
-        "icon": "/icons/react.svg"
-      },
-      {
-        "name": "Asterisk",
-        "icon": "/icons/asterisk.svg"
-      },
-      {
-        "name": "Python & FastAPI",
-        "icon": "/icons/python.svg"
-      },
-      {
-        "name": "CustomAMD",
-        "icon": "/icons/cpu.svg"
-      },
-      {
-        "name": "Google Cloud",
-        "icon": "/icons/cloud.svg"
-      },
-      {
-        "name": "OSINT (basic)",
-        "icon": "/icons/search.svg"
-      },
-      {
-        "name": "Azure",
-        "icon": "/icons/azure.svg"
-      },
-      {
-        "name": "Machine Learning (basic)",
-        "icon": "/icons/ai.svg"
-      },
-      {
-        "name": "AWS",
-        "icon": "/icons/aws.svg"
-      }
-    ]
-  },
+"resume": {
+  "skillmessage": "My Technical Arsenal",
+  "skills": [
+    {
+      "name": "CustomScript",
+      "icon": "/icon/code.svg"
+    },
+    {
+      "name": "SIP",
+      "icon": "/icon/network.svg"
+    },
+    {
+      "name": "Next.js",
+      "icon": "/icon/react.svg"
+    },
+    {
+      "name": "Asterisk",
+      "icon": "/icon/asterisk.svg"
+    },
+    {
+      "name": "Python & FastAPI",
+      "icon": "/icon/python.svg"
+    },
+    {
+      "name": "CustomAMD",
+      "icon": "/icon/cpu.svg"
+    },
+    {
+      "name": "Google Cloud",
+      "icon": "/icon/cloud.svg"
+    },
+    {
+      "name": "OSINT (basic)",
+      "icon": "/icon/search.svg"
+    },
+    {
+      "name": "Azure",
+      "icon": "/icon/azure.svg"
+    },
+    {
+      "name": "Machine Learning (basic)",
+      "icon": "/icon/ai.svg"
+    },
+    {
+      "name": "AWS",
+      "icon": "/icon/aws.svg"
+    }
+  ]
+},
 "portfolio": {
   "projects": [
     {
