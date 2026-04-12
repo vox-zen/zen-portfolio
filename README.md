@@ -53,3 +53,7 @@ docker run -p 3000:3000 zen-portfolio
   Vizi – Full Stack Developer (Communication Tools Focus)
   
 ---
+
+⭐ Support
+
+If this project helps you, consider giving it a ⭐ on GitHub!
