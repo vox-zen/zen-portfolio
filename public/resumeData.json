@@ -1,0 +1,127 @@
+{
+  "main": {
+    "name": "Vox Zen",
+    "occupation": "Full-Stack Developer & AI Enthusiast",
+    "description": "",
+    "image": "profilepic.jpg",
+    "bio": "I'm Zen, an independent developer behind Vox Zen. I build backend systems, AI integrations, and communication platforms. My work focuses on practical products such as CPaaS solutions, Discord bots, and scalable web applications, with a strong emphasis on automation and real-world utility.",
+    "contactmessage": "Let's build something amazing together!",
+    "email": "zen@voxzen.site",
+    "phone": "+6282125230397",
+    "website": "",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/vox-zen",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/zeennn.03",
+        "className": "fa fa-github"
+      }
+    ],
+    "profiles": [
+      {
+        "name": "discord",
+        "url": "https://discord.com/users/729619739835367425",
+        "className": "fa fa-box"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Technical Arsenal",
+    "skills": [
+      {
+        "name": "CustomScript",
+        "icon": "/icons/code.svg"
+      },
+      {
+        "name": "SIP",
+        "icon": "/icons/network.svg"
+      },
+      {
+        "name": "Next.js",
+        "icon": "/icons/react.svg"
+      },
+      {
+        "name": "Asterisk",
+        "icon": "/icons/asterisk.svg"
+      },
+      {
+        "name": "Python & FastAPI",
+        "icon": "/icons/python.svg"
+      },
+      {
+        "name": "CustomAMD",
+        "icon": "/icons/cpu.svg"
+      },
+      {
+        "name": "Google Cloud",
+        "icon": "/icons/cloud.svg"
+      },
+      {
+        "name": "OSINT (basic)",
+        "icon": "/icons/search.svg"
+      },
+      {
+        "name": "Azure",
+        "icon": "/icons/azure.svg"
+      },
+      {
+        "name": "Machine Learning (basic)",
+        "icon": "/icons/ai.svg"
+      },
+      {
+        "name": "AWS",
+        "icon": "/icons/aws.svg"
+      }
+    ]
+  },
+"portfolio": {
+  "projects": [
+    {
+      "title": "CPaaS Mini [Published]",
+      "about": "A scalable CPaaS platform powered by Azure Communication Services and AWS Amazon Connect, supporting voice automation, call handling, and real-time communication systems.",      "image": "/byte.png",
+      "url": "https://voxcallivr.com/"
+    },
+    {
+      "title": "Discord AI Assistant Bot [Published]",
+      "about": "An AI-powered Discord assistant built using OpenAI and ElevenLabs. Supports conversational AI, voice interaction, and automation features for community management.",
+      "image": "/akshaya.png",
+      "url": "https://voxibot.org/"
+    },
+    {
+      "title": "Roblox Game (Beta) [Published]",
+      "about": "A game developed using Roblox Studio and Lua scripting. Focused on gameplay mechanics and interactive player experience.",
+      "image": "/devdump.png",
+      "url": "https://www.roblox.com/games/75687552062935/Cast-Catch"
+    },
+    {
+      "title": "Discord Game Bot [In Progress]",
+      "about": "A Discord bot currently in development focused on game features, player interaction, and community engagement systems.",
+      "image": "/furnace.png",
+      "url": "#"
+    },
+    {
+      "title": "Online Shop Web App [In Progress]",
+      "about": "An e-commerce web application with Stripe payment gateway integration. Includes product management, checkout system, and secure payment handling.",
+      "image": "/leegit.png",
+      "url": "#"
+    }
+  ]
+},
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Alex's technical expertise and problem-solving abilities are outstanding. They transformed our entire infrastructure and reduced costs by 40%.",
+        "user": "Sarah Chen, CTO at TechVentures"
+      },
+      {
+        "text": "Working with Alex was a game-changer for our team. Their code quality and architectural decisions set new standards for our organization.",
+        "user": "Marcus Johnson, Engineering Manager"
+      }
+    ]
+  }
+}
