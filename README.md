@@ -53,27 +53,3 @@ docker run -p 3000:3000 zen-portfolio
   Vizi – Full Stack Developer (Communication Tools Focus)
   
 ---
-
-## 🔥 Kenapa ini bagus
-
-- ✔ Clean (recruiter suka)
-- ✔ Ada live demo
-- ✔ Ada Docker (langsung naik level 🚀)
-- ✔ Structured (keliatan senior)
-- ✔ Nggak terlalu panjang tapi impactful
-
----
-
-## ⚡ Setelah ini
-
-1. Klik **Commit changes**
-2. Open PR
-3. Merge
-
-💥 **Pull Shark unlocked**
-
----
-
-Kalau mau next level, aku bisa bantu:
-- Tambahin badge (deploy, build, dll)
-- Atau bikin README kamu jadi **super standout (top 5% GitHub profile)**
